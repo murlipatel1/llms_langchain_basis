@@ -1,0 +1,11 @@
+# Existing dependencies
+langchain
+llama-cpp-python
+faiss-cpu
+llama-index
+sqlalchemy
+psycopg2-binary
+openai
+
+# Vector database
+chromadb
